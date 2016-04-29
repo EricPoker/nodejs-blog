@@ -8,3 +8,7 @@ https://github.com/nodejs/node/wiki/Breaking-changes-between-v5-and-v6
 
 ##optmize your nodejs application
 https://nodesource.com/blog/profiling-node-js-applications/
+
+##TEST
+the three different assertion styles that you may use in your testing environment
+http://chaijs.com/guide/styles/
