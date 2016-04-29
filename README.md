@@ -6,6 +6,8 @@ https://nodesource.com/blog/understanding-the-nodejs-event-loop/
 ##nodejs V6
 https://github.com/nodejs/node/wiki/Breaking-changes-between-v5-and-v6
 
+https://blog.risingstack.com/whats-new-in-node-v6/?utm_source=nodeweekly&utm_medium=email
+
 ##optmize your nodejs application
 https://nodesource.com/blog/profiling-node-js-applications/
 
